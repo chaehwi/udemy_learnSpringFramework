@@ -1,5 +1,5 @@
 package com.in28minutes.learnspringframework.game;
 
-public class Supermario {
+public class PacmanGame {
 
 }
